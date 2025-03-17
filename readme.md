@@ -10,7 +10,9 @@
 
 # Passo 4: 
 ### Acesse O [Traefik](http://localhost:8080/dashboard/#/)  para acessar o dashboard 
-![[Pasted image 20250317094435.png]]
+![image](https://github.com/user-attachments/assets/e15eb04c-9532-49f8-8e18-d3ca345e6463)
+
 
 # Passo 5: 
-### Acesse o [flask-api.localhost](http://flask-api.localhost/) para acessar o proxy reverso da nossa api flask ![[Pasted image 20250317095002.png]]
+### Acesse o [flask-api.localhost](http://flask-api.localhost/) para acessar o proxy reverso da nossa api flask 
+![image](https://github.com/user-attachments/assets/e9f3e62e-53b8-4e7c-846c-6c9b9eff9a81)
